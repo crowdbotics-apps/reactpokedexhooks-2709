@@ -1,0 +1,3 @@
+rootProject.name = 'reactpokedexhooks_2709'
+
+include ':app'
